@@ -2,11 +2,14 @@
 
 .gradle
 .idea
+
+application-oauth.properties
+
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-application-oauth.properties
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
